@@ -1,0 +1,9 @@
+git init
+git add .
+git commit -m "Initial commit - Vibe Checker app"
+git remote set-url origin https://github.com/SanidhyaV01/vibe-checker.git
+git branch -M main
+git push -u origin main
+
+git config --global user.email "sanidhyaverma92@gmail.com"
+git config --global user.name "SanidhyaV01"
